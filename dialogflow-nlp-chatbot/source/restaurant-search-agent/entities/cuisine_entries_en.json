@@ -1,0 +1,36 @@
+[
+  {
+    "value": "chinese",
+    "synonyms": [
+      "chinese",
+      "cantonese",
+      "szechuan"
+    ]
+  },
+  {
+    "value": "mexican",
+    "synonyms": [
+      "mexican"
+    ]
+  },
+  {
+    "value": "indian",
+    "synonyms": [
+      "indian"
+    ]
+  },
+  {
+    "value": "vegetarian",
+    "synonyms": [
+      "vegetarian",
+      "veg",
+      "veggie"
+    ]
+  },
+  {
+    "value": "vegan",
+    "synonyms": [
+      "vegan"
+    ]
+  }
+]

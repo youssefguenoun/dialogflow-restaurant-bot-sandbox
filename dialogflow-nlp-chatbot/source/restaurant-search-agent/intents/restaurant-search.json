@@ -1,0 +1,46 @@
+{
+  "id": "ef7dc086-c961-403a-9882-643e7116110d",
+  "name": "restaurant-search",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "aa503d73-a837-4f8a-9d92-3f8be8ed311b",
+          "dataType": "@cuisine",
+          "name": "cuisine",
+          "value": "$cuisine",
+          "isList": false
+        },
+        {
+          "id": "0389c594-b8a6-4cb3-913f-3e2654b386b7",
+          "dataType": "@location",
+          "name": "location",
+          "value": "$location",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Please wait i am searching for your restaurant.",
+            "Let me try to find a restaurant for you. Please wait."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539682058,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "value": "town",
+    "synonyms": [
+      "town",
+      "down town",
+      "city center"
+    ]
+  },
+  {
+    "value": "nearby",
+    "synonyms": [
+      "nearby",
+      "nearest",
+      "closest",
+      "close by",
+      "vicinity",
+      "walkable"
+    ]
+  },
+  {
+    "value": "station",
+    "synonyms": [
+      "station",
+      "railway station",
+      "bus station"
+    ]
+  }
+]

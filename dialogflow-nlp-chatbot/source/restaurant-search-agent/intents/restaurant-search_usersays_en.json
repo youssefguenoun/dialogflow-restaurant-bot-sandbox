@@ -1,0 +1,218 @@
+[
+  {
+    "id": "3cb152b1-fc06-46a5-aff9-074670c568a6",
+    "data": [
+      {
+        "text": "show me a ",
+        "userDefined": false
+      },
+      {
+        "text": "mexican",
+        "alias": "cuisine",
+        "meta": "@cuisine",
+        "userDefined": false
+      },
+      {
+        "text": " place in the centre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539682058
+  },
+  {
+    "id": "b3b90654-c310-4e8f-8b43-3df4f7df8c12",
+    "data": [
+      {
+        "text": "i am looking for an ",
+        "userDefined": false
+      },
+      {
+        "text": "indian",
+        "alias": "cuisine",
+        "meta": "@cuisine",
+        "userDefined": false
+      },
+      {
+        "text": " spot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539682058
+  },
+  {
+    "id": "2786be07-d853-42f1-a3d7-59037de0cbb0",
+    "data": [
+      {
+        "text": "search for restaurants",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539682058
+  },
+  {
+    "id": "c4f40514-81af-4a72-97f2-4f934e7c3ac0",
+    "data": [
+      {
+        "text": "anywhere in the ",
+        "userDefined": false
+      },
+      {
+        "text": "west",
+        "alias": "location",
+        "meta": "@location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539682058
+  },
+  {
+    "id": "291f27bb-447f-471c-9895-70e5414ee845",
+    "data": [
+      {
+        "text": "central ",
+        "userDefined": false
+      },
+      {
+        "text": "indian",
+        "alias": "cuisine",
+        "meta": "@cuisine",
+        "userDefined": false
+      },
+      {
+        "text": " restaurant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539682058
+  },
+  {
+    "id": "ff2b76b9-29cc-42de-9780-2c13347cb7f6",
+    "data": [
+      {
+        "text": "Is there any place I can get ",
+        "userDefined": false
+      },
+      {
+        "text": "cantonese",
+        "alias": "cuisine",
+        "meta": "@cuisine",
+        "userDefined": false
+      },
+      {
+        "text": " style food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539682058
+  },
+  {
+    "id": "a50f6f44-7109-456c-8659-7991b96acef1",
+    "data": [
+      {
+        "text": "where can i get ",
+        "userDefined": false
+      },
+      {
+        "text": "Szechuan",
+        "alias": "cuisine",
+        "meta": "@cuisine",
+        "userDefined": false
+      },
+      {
+        "text": " chicken?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539682058
+  },
+  {
+    "id": "1902a4a2-f7c1-40c7-ad14-cb37bcfc2ca8",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "mexican",
+        "alias": "cuisine",
+        "meta": "@cuisine",
+        "userDefined": false
+      },
+      {
+        "text": " food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539682058
+  },
+  {
+    "id": "bac03f96-fa0d-4743-92db-af111d0e2d10",
+    "data": [
+      {
+        "text": "feeling hungry. where is the ",
+        "userDefined": false
+      },
+      {
+        "text": "nearest",
+        "alias": "location",
+        "meta": "@location",
+        "userDefined": false
+      },
+      {
+        "text": " restaurant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539682058
+  },
+  {
+    "id": "5bd4f58c-0545-4913-af3b-14158f0c8c75",
+    "data": [
+      {
+        "text": "Any ",
+        "userDefined": false
+      },
+      {
+        "text": "vegetarian",
+        "alias": "cuisine",
+        "meta": "@cuisine",
+        "userDefined": false
+      },
+      {
+        "text": " restaurants ",
+        "userDefined": false
+      },
+      {
+        "text": "nearby",
+        "alias": "location",
+        "meta": "@location",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539682058
+  }
+]
